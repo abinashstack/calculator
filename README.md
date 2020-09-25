@@ -5,6 +5,7 @@ A Calculator using React-Native
 ## Tools and tanguages used
 
 * React-native
+* Javascript
 * Visual-Studio-code
 * react-library
 
