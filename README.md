@@ -1,4 +1,14 @@
-# calculator
-A CALCULATOR USING REACT-NATIVE
+## What is this?
 
-USED NPM PACKAGE MANAGER-npm
+A Calculator using React-Native
+
+## Tools and tanguages used
+
+* React-native
+* Visual-Studio-code
+* react-library
+
+
+## Author : Abinash Gogoi
+
+Reach me at : abinash.gogoi55@gmail.com
